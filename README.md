@@ -14,4 +14,7 @@ The dashboard provides valuable insights into employee demographics, performance
 ## 🎯 Objectives
 - Enhance **HR decision-making** with clear visual insights  
 - Identify **workforce trends** that impact productivity and retention  
-- Provide a **comprehensive view** of employee performance & engagement  
+- Provide a **comprehensive view** of employee performance & engagement
+
+  ## DATA SET used
+  
