@@ -16,7 +16,8 @@ The dashboard provides valuable insights into employee demographics, performance
 - Identify **workforce trends** that impact productivity and retention  
 - Provide a **comprehensive view** of employee performance & engagement
 
-
+## data set
+-<a href="https://github.com/mithun2gowda123/Data-Analytics-Dashboard/blob/main/HR_Analytics.csv">dataset</a>
 
 
   
