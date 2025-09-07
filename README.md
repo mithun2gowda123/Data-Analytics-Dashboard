@@ -17,4 +17,7 @@ The dashboard provides valuable insights into employee demographics, performance
 - Provide a **comprehensive view** of employee performance & engagement
 
   ## DATA SET used
+- [Download HR_Analytics.csv](https://github.com/mithun2gowda123/Data-Analytics-Dashboard/blob/main/dataset/HR_Analytics.csv)
+
+
   
